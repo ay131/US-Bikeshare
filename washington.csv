@@ -1,0 +1,501 @@
+,Unnamed: 0,Start Time,End Time,Trip Duration,Start Station,End Station,User Type
+0,1621326,2017-06-21 08:36:34,2017-06-21 08:44:43,489.066,14th & Belmont St NW,15th & K St NW,Subscriber
+1,482740,2017-03-11 10:40:00,2017-03-11 10:46:00,402.549,Yuma St & Tenley Circle NW,Connecticut Ave & Yuma St NW,Subscriber
+2,1330037,2017-05-30 01:02:59,2017-05-30 01:13:37,637.251,17th St & Massachusetts Ave NW,5th & K St NW,Subscriber
+3,665458,2017-04-02 07:48:35,2017-04-02 08:19:03,1827.341,Constitution Ave & 2nd St NW/DOL,M St & Pennsylvania Ave NW,Customer
+4,1481135,2017-06-10 08:36:28,2017-06-10 09:02:17,1549.427,Henry Bacon Dr & Lincoln Memorial Circle NW,Maine Ave & 7th St SW,Subscriber
+5,1148202,2017-05-14 07:18:18,2017-05-14 07:24:56,398.0,1st & K St SE,Eastern Market Metro / Pennsylvania Ave & 7th St SE,Subscriber
+6,1594275,2017-06-19 08:41:43,2017-06-19 09:00:08,1105.429,Park Rd & Holmead Pl NW,8th & H St NW,Subscriber
+7,1601832,2017-06-20 05:54:42,2017-06-20 06:05:18,636.2180000000002,1st & D St SE,Potomac & Pennsylvania Ave SE,Subscriber
+8,574182,2017-03-24 20:37:00,2017-03-24 20:42:00,328.53,18th & R St NW,15th & P St NW,Subscriber
+9,327058,2017-02-20 21:12:00,2017-02-20 21:31:00,1188.09,17th & Corcoran St NW,Lynn & 19th St North,Subscriber
+10,854729,2017-04-17 02:50:51,2017-04-17 03:05:17,866.689,37th & O St NW / Georgetown University,37th & O St NW / Georgetown University,Customer
+11,721887,2017-04-08 01:12:48,2017-04-08 01:52:33,2385.411,10th & G St NW,5th St & Massachusetts Ave NW,Customer
+12,143181,2017-01-26 20:01:00,2017-01-26 20:17:00,951.457,10th St & L'Enfant Plaza SW,1st & Rhode Island Ave NW,Subscriber
+13,26953,2017-01-06 17:36:00,2017-01-06 17:43:00,448.628,North Capitol St & F St NW,1st & M St NE,Subscriber
+14,1308542,2017-05-28 03:50:26,2017-05-28 04:24:26,2039.472,Henry Bacon Dr & Lincoln Memorial Circle NW,Lincoln Memorial,Customer
+15,1592744,2017-06-19 07:46:35,2017-06-19 07:55:00,505.482,Metro Center / 12th & G St NW,North Capitol St & G Pl NE,Subscriber
+16,1139713,2017-05-13 11:29:16,2017-05-13 11:55:47,1591.326,16th & Harvard St NW,New York Ave & 15th St NW,Customer
+17,1478516,2017-06-10 06:04:41,2017-06-10 06:32:33,1672.075,17th St & Massachusetts Ave NW,15th & East Capitol St NE,Subscriber
+18,679837,2017-04-03 10:22:19,2017-04-03 10:26:11,231.952,20th & Crystal Dr,6th & S Ball St,Subscriber
+19,1392498,2017-06-03 11:42:54,2017-06-03 12:21:05,2291.454,22nd & I St NW / Foggy Bottom,Lamont & Mt Pleasant NW,Customer
+20,746605,2017-04-09 11:05:42,2017-04-09 11:26:44,1261.363,Henry Bacon Dr & Lincoln Memorial Circle NW,Smithsonian-National Mall / Jefferson Dr & 12th St SW,Customer
+21,868881,2017-04-18 05:42:04,2017-04-18 06:31:28,2964.818,Anacostia Metro,Congress Heights Metro,Subscriber
+22,1161275,2017-05-15 07:35:21,2017-05-15 07:49:06,825.59,3rd & H St NE,Oklahoma Ave & D St NE,Subscriber
+23,305000,2017-02-19 00:43:00,2017-02-19 00:46:00,226.006,18th St & Wyoming Ave NW,Calvert St & Woodley Pl NW,Subscriber
+24,1174029,2017-05-16 07:34:43,2017-05-16 07:50:04,920.84,Florida Ave & R St NW,L'Enfant Plaza / 7th & C St SW,Subscriber
+25,1157984,2017-05-15 05:39:22,2017-05-15 06:02:14,1371.5120000000004,Lincoln Memorial,Arlington Blvd & Fillmore St,Subscriber
+26,694527,2017-04-05 01:36:31,2017-04-05 01:40:45,254.076,13th St & New York Ave NW,11th & M St NW,Subscriber
+27,228536,2017-02-08 09:17:00,2017-02-08 09:31:00,834.78,39th & Calvert St NW / Stoddert,Massachusetts Ave & Dupont Circle NW,Subscriber
+28,669432,2017-04-02 12:11:35,2017-04-02 02:15:22,7427.749,2nd St & Massachusetts Ave NE,2nd St & Massachusetts Ave NE,Customer
+29,1036255,2017-05-02 11:49:43,2017-05-02 12:09:09,1165.698,10th & K St NW,Georgetown Harbor / 30th St NW,Subscriber
+30,300879,2017-02-18 15:55:00,2017-02-18 16:22:00,1608.894,Madison & Fairfax St,12th & Army Navy Dr,Customer
+31,1999,2017-01-01 14:40:00,2017-01-01 14:44:00,252.871,21st & M St NW,18th & R St NW,Subscriber
+32,1737550,2017-06-29 12:45:40,2017-06-29 01:39:39,3238.239,4th St & Madison Dr NW,4th St & Madison Dr NW,Customer
+33,941125,2017-04-25 07:43:56,2017-04-25 08:02:38,1122.602,17th St & Massachusetts Ave NW,3rd St & Pennsylvania Ave SE,Subscriber
+34,964985,2017-04-27 08:01:58,2017-04-27 08:15:00,782.7819999999998,4th St & Madison Dr NW,18th St & Pennsylvania Ave NW,Subscriber
+35,34042,2017-01-09 12:29:00,2017-01-09 12:48:00,1138.896,TJ Cmty Ctr / 2nd St & S Old Glebe Rd,Shirlington Transit Center / S Quincy & Randolph St,Subscriber
+36,131497,2017-01-25 15:57:00,2017-01-25 18:10:00,7954.191,17th & K St NW,Carlin Springs Rd & N Thomas St,Customer
+37,398759,2017-02-28 15:53:00,2017-02-28 16:08:00,888.153,Smithsonian-National Mall / Jefferson Dr & 12th St SW,Columbus Circle / Union Station,Subscriber
+38,582231,2017-03-25 14:16:00,2017-03-25 14:35:00,1127.911,18th & R St NW,8th & D St NW,Subscriber
+39,1357016,2017-06-01 05:49:59,2017-06-01 05:59:53,593.622,14th & Belmont St NW,7th & R St NW / Shaw Library,Subscriber
+40,1679342,2017-06-25 12:57:31,2017-06-25 02:10:06,4355.38,14th & D St NW / Ronald Reagan Building,14th & D St NW / Ronald Reagan Building,Customer
+41,403923,2017-03-01 10:13:00,2017-03-01 10:17:00,270.335,Veterans Pl & Pershing Dr ,Ripley & Bonifant St,Subscriber
+42,847389,2017-04-16 06:55:41,2017-04-16 06:57:40,118.354,New Hampshire Ave & 24th St NW,24th & N St NW,Subscriber
+43,1126235,2017-05-12 02:15:53,2017-05-12 02:33:15,1042.119,22nd & P ST NW,10th & K St NW,Customer
+44,1416879,2017-06-05 11:32:28,2017-06-05 11:38:24,356.295,3rd & Elm St NW,7th & R St NW / Shaw Library,Subscriber
+45,637581,2017-03-30 15:23:00,2017-03-30 15:34:00,663.5939999999998,20th & E St NW,14th & D St NW / Ronald Reagan Building,Subscriber
+46,874774,2017-04-18 08:43:27,2017-04-18 08:46:32,185.352,Eastern Market / 7th & North Carolina Ave SE,1st & D St SE,Subscriber
+47,1104030,2017-05-09 08:10:22,2017-05-09 08:24:15,833.419,Columbus Circle / Union Station,Jefferson Dr & 14th St SW,Subscriber
+48,368705,2017-02-24 19:02:00,2017-02-24 19:09:00,447.7480000000001,21st & M St NW,C & O Canal & Wisconsin Ave NW,Subscriber
+49,1355059,2017-06-01 04:41:13,2017-06-01 04:54:27,794.122,14th & V St NW,1st & Washington Hospital Center NW,Subscriber
+50,230028,2017-02-08 13:11:00,2017-02-08 13:15:00,238.658,17th & G St NW,20th St & Virginia Ave NW,Subscriber
+51,305817,2017-02-19 10:01:00,2017-02-19 10:10:00,587.0509999999998,11th & O St NW,Metro Center / 12th & G St NW,Subscriber
+52,317145,2017-02-19 22:54:00,2017-02-19 23:40:00,2728.726,19th St & Constitution Ave NW,21st St & Constitution Ave NW,Customer
+53,795979,2017-04-13 04:52:18,2017-04-13 05:14:00,1302.578,15th & L St NW,Connecticut Ave & Newark St NW / Cleveland Park,Subscriber
+54,890782,2017-04-20 02:30:31,2017-04-20 03:04:51,2060.018,21st St & Constitution Ave NW,Jefferson Memorial,Customer
+55,1521583,2017-06-13 09:20:29,2017-06-13 09:25:55,326.177,Madison & N Henry St,Saint Asaph & Madison St,Subscriber
+56,1534265,2017-06-14 09:00:17,2017-06-14 09:03:56,219.023,Adams Mill & Columbia Rd NW,15th & Euclid St  NW,Subscriber
+57,1512084,2017-06-13 02:06:02,2017-06-13 02:15:13,550.6469999999998,Connecticut Ave & R St NW,Adams Mill & Columbia Rd NW,Subscriber
+58,49136,2017-01-11 20:00:00,2017-01-11 20:03:00,127.729,Central Library / N Quincy St & 10th St N,Wilson Blvd & N Quincy St,Subscriber
+59,417977,2017-03-02 21:51:00,2017-03-02 22:00:00,543.56,8th & H St NW,14th & R St NW,Subscriber
+60,1503283,2017-06-12 05:53:14,2017-06-12 05:59:24,369.58,Wilson Blvd & N Uhle St,21st St N & N Pierce St,Subscriber
+61,440191,2017-03-06 16:56:00,2017-03-06 16:59:00,216.303,39th & Veazey St NW,Van Ness Metro / UDC,Subscriber
+62,142964,2017-01-26 19:28:00,2017-01-26 19:32:00,268.783,11th & M St NW,7th & F St NW/Portrait Gallery,Subscriber
+63,460995,2017-03-08 18:29:00,2017-03-08 18:39:00,568.243,1st & H St NW,13th & H St NE,Subscriber
+64,1077673,2017-05-07 03:55:07,2017-05-07 04:14:50,1182.397,4th St & Madison Dr NW,New York Ave & 15th St NW,Customer
+65,747817,2017-04-09 12:04:26,2017-04-09 02:26:32,8525.019,Smithsonian-National Mall / Jefferson Dr & 12th St SW,Lincoln Memorial,Customer
+66,1084077,2017-05-07 12:35:42,2017-05-07 01:20:29,2686.536,15th & W St NW,Eastern Market Metro / Pennsylvania Ave & 7th St SE,Customer
+67,1727292,2017-06-29 05:24:53,2017-06-29 05:51:23,1590.865,Smithsonian-National Mall / Jefferson Dr & 12th St SW,Smithsonian-National Mall / Jefferson Dr & 12th St SW,Customer
+68,568889,2017-03-24 13:27:00,2017-03-24 13:29:00,112.686,16th & K St NW,17th & K St NW,Subscriber
+69,52359,2017-01-12 10:36:00,2017-01-12 10:46:00,561.007,19th & K St NW,Metro Center / 12th & G St NW,Subscriber
+70,948220,2017-04-26 05:46:01,2017-04-26 06:08:14,1332.851,14th & Rhode Island Ave NW,5th & F St NW,Subscriber
+71,590016,2017-03-25 20:42:00,2017-03-25 21:18:00,2171.291,Smithsonian-National Mall / Jefferson Dr & 12th St SW,3rd & D St SE,Customer
+72,290641,2017-02-17 15:10:00,2017-02-17 15:15:00,324.328,1st & N St  SE,Eastern Market Metro / Pennsylvania Ave & 7th St SE,Subscriber
+73,455744,2017-03-08 11:50:00,2017-03-08 11:56:00,381.596,7th & T St NW,8th & H St NW,Subscriber
+74,1223270,2017-05-20 04:43:44,2017-05-20 05:05:36,1311.5739999999996,15th & W St NW,1st & O St NW,Subscriber
+75,574407,2017-03-24 21:21:00,2017-03-24 21:39:00,1026.575,15th & East Capitol St NE,5th & F St NW,Subscriber
+76,241950,2017-02-10 07:03:00,2017-02-10 07:09:00,343.03,Adams Mill & Columbia Rd NW,14th & Irving St NW,Subscriber
+77,1466776,2017-06-09 07:54:56,2017-06-09 08:06:05,669.1469999999998,22nd St & Constitution Ave NW,18th & M St NW,Customer
+78,873671,2017-04-18 08:08:39,2017-04-18 08:35:39,1619.422,Lee Hwy & N Scott St,15th & Crystal Dr,Subscriber
+79,207988,2017-02-06 07:21:00,2017-02-06 07:29:00,477.67,Columbia Rd & Georgia Ave NW,Park Rd & Holmead Pl NW,Subscriber
+80,241670,2017-02-09 23:07:00,2017-02-09 23:13:00,343.523,Barcroft Community Center,George Mason Dr & Wilson Blvd,Subscriber
+81,1197538,2017-05-18 06:19:12,2017-05-18 06:29:09,597.42,17th St & Massachusetts Ave NW,Adams Mill & Columbia Rd NW,Subscriber
+82,1527613,2017-06-14 05:35:44,2017-06-14 05:41:23,338.574,31st & Water St NW,New Hampshire Ave & 24th St NW,Subscriber
+83,848005,2017-04-16 07:39:55,2017-04-16 07:51:31,696.4,10th & G St NW,Thomas Circle,Customer
+84,441535,2017-03-06 18:04:00,2017-03-06 18:23:00,1170.388,Eckington Pl & Q St NE,8th & Eye St SE / Barracks Row,Subscriber
+85,1394343,2017-06-04 01:08:49,2017-06-04 01:12:59,249.727,15th & L St NW,15th & P St NW,Subscriber
+86,438083,2017-03-06 11:59:00,2017-03-06 12:03:00,199.431,14th & Rhode Island Ave NW,17th & Rhode Island Ave NW,Subscriber
+87,1403802,2017-06-04 10:30:35,2017-06-04 10:43:41,786.43,2nd & G St NE,14th & R St NW,Subscriber
+88,855439,2017-04-17 04:01:34,2017-04-17 04:05:53,258.932,3rd & H St NW,Columbus Circle / Union Station,Subscriber
+89,1347499,2017-05-31 08:00:30,2017-05-31 08:12:36,726.087,Jefferson Dr & 14th St SW,Hains Point/Buckeye & Ohio Dr SW,Customer
+90,947107,2017-04-26 05:07:57,2017-04-26 05:17:15,558.155,Potomac Ave & 8th St SE,15th & F St NE,Subscriber
+91,662007,2017-04-02 04:41:33,2017-04-02 04:57:04,931.596,17th St & Independence Ave SW,21st & I St NW,Customer
+92,1564349,2017-06-17 01:37:17,2017-06-17 02:37:40,3623.547,14th & G St NW,8th & D St NW,Customer
+93,1566364,2017-06-17 03:25:22,2017-06-17 03:36:36,674.428,Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,Jefferson Memorial,Customer
+94,1020210,2017-05-01 08:14:41,2017-05-01 08:22:19,458.207,14th & Rhode Island Ave NW,18th & M St NW,Subscriber
+95,1672492,2017-06-25 06:44:07,2017-06-25 07:04:05,1198.104,Eastern Market Metro / Pennsylvania Ave & 7th St SE,8th & D St NW,Subscriber
+96,424926,2017-03-03 23:27:00,2017-03-03 23:32:00,318.422,Calvert St & Woodley Pl NW,16th & Harvard St NW,Subscriber
+97,818493,2017-04-14 08:18:57,2017-04-14 09:09:29,3032.331,Smithsonian-National Mall / Jefferson Dr & 12th St SW,Smithsonian-National Mall / Jefferson Dr & 12th St SW,Customer
+98,684191,2017-04-04 04:51:59,2017-04-04 05:04:28,748.4960000000002,Columbus Circle / Union Station,Bladensburg Rd & Benning Rd NE,Subscriber
+99,595747,2017-03-26 16:12:00,2017-03-26 16:24:00,712.533,4th St & Madison Dr NW,Smithsonian-National Mall / Jefferson Dr & 12th St SW,Customer
+100,942548,2017-04-25 08:44:50,2017-04-25 08:56:21,691.1080000000002,18th & M St NW,13th St & New York Ave NW,Subscriber
+101,836810,2017-04-15 10:20:35,2017-04-15 10:29:53,557.841,11th & F St NW,10th & K St NW,Subscriber
+102,443263,2017-03-06 20:42:00,2017-03-06 20:50:00,455.94,Convention Center / 7th & M St NW,15th & P St NW,Subscriber
+103,8178,2017-01-03 18:12:00,2017-01-03 18:22:00,601.19,Wilson Blvd & N Edgewood St,Glebe Rd & 11th St N,Subscriber
+104,1202791,2017-05-18 09:30:39,2017-05-18 09:33:39,180.677,11th & Kenyon St NW,10th & Florida Ave NW,Subscriber
+105,198932,2017-02-04 13:09:00,2017-02-04 13:29:00,1158.081,Columbus Circle / Union Station,15th & K St NW,Subscriber
+106,1262778,2017-05-23 12:24:45,2017-05-23 01:41:38,4612.78,Lincoln Memorial,8th & H St NW,Customer
+107,70106,2017-01-15 12:27:00,2017-01-15 12:34:00,404.5630000000001,Pentagon City Metro / 12th & S Hayes St,23rd & Eads St,Subscriber
+108,333308,2017-02-21 17:36:00,2017-02-21 17:49:00,787.23,23rd & E St NW ,19th & L St NW,Subscriber
+109,184802,2017-02-02 08:37:00,2017-02-02 08:45:00,478.421,3rd & H St NW,14th St & New York Ave NW,Subscriber
+110,1207200,2017-05-19 03:53:18,2017-05-19 04:53:15,3597.384,Columbus Circle / Union Station,11th & H St NE,Subscriber
+111,447561,2017-03-07 12:30:00,2017-03-07 12:39:00,556.591,4th & M St SW,3rd & Tingey St SE,Subscriber
+112,1279143,2017-05-25 07:57:55,2017-05-25 08:03:35,339.926,Takoma Metro,Maple & Ritchie Ave,Subscriber
+113,1299938,2017-05-27 05:43:50,2017-05-27 06:01:50,1080.592,11th & Kenyon St NW,Kennedy Center,Subscriber
+114,1055788,2017-05-04 06:57:23,2017-05-04 07:07:21,597.856,Columbus Circle / Union Station,USDA / 12th & Independence Ave SW,Subscriber
+115,1340812,2017-05-31 01:56:37,2017-05-31 02:04:56,498.997,Lincoln Park / 13th & East Capitol St NE ,2nd St & Massachusetts Ave NE,Subscriber
+116,356865,2017-02-23 21:07:00,2017-02-23 21:15:00,491.636,Lincoln Memorial,Iwo Jima Memorial/N Meade & 14th St N,Subscriber
+117,1579909,2017-06-18 04:13:21,2017-06-18 04:58:50,2728.092,Smithsonian-National Mall / Jefferson Dr & 12th St SW,19th St & Constitution Ave NW,Customer
+118,1718945,2017-06-28 08:25:09,2017-06-28 08:30:20,310.442,14th & Irving St NW,15th & W St NW,Subscriber
+119,14506,2017-01-04 17:31:00,2017-01-04 17:38:00,446.008,Columbus Circle / Union Station,3rd St & Pennsylvania Ave SE,Subscriber
+120,882360,2017-04-19 06:06:44,2017-04-19 06:08:18,94.372,25th St & Pennsylvania Ave NW,M St & Pennsylvania Ave NW,Customer
+121,594237,2017-03-26 13:38:00,2017-03-26 13:47:00,547.109,3rd & H St NE,3rd & D St SE,Subscriber
+122,1405546,2017-06-04 12:01:20,2017-06-04 12:22:19,1259.219,Maine Ave & 7th St SW,Jefferson Memorial,Customer
+123,1008886,2017-04-30 10:04:30,2017-04-30 10:06:26,115.853,19th St & Constitution Ave NW,19th St & Constitution Ave NW,Customer
+124,545280,2017-03-21 17:35:00,2017-03-21 17:51:00,932.75,N Lynn St & Fairfax Dr,Clarendon Metro / Wilson Blvd & N Highland St,Subscriber
+125,593209,2017-03-26 12:02:00,2017-03-26 12:29:00,1634.7620000000004,24th & R St NE / National Arboretum,5th St & Massachusetts Ave NW,Subscriber
+126,140818,2017-01-26 16:49:00,2017-01-26 17:06:00,1006.8,18th & C St NW,14th & Belmont St NW,Subscriber
+127,37143,2017-01-10 07:16:00,2017-01-10 07:18:00,161.361,North Capitol St & F St NW,4th & D St NW / Judiciary Square,Subscriber
+128,251530,2017-02-11 15:29:00,2017-02-11 15:56:00,1585.706,15th & Euclid St  NW,22nd & P ST NW,Customer
+129,963773,2017-04-27 07:25:56,2017-04-27 07:34:13,497.762,3rd St & Pennsylvania Ave SE,6th & K St NE,Subscriber
+130,1473734,2017-06-10 01:47:24,2017-06-10 02:00:32,788.425,4th & C St SW,Washington & Independence Ave SW/HHS,Customer
+131,1012603,2017-04-30 12:57:53,2017-04-30 04:17:34,11981.728,Constitution Ave & 2nd St NW/DOL,Constitution Ave & 2nd St NW/DOL,Customer
+132,1537504,2017-06-15 01:18:40,2017-06-15 01:41:06,1346.039,11th & Girard St NW,M St & New Jersey Ave SE,Customer
+133,1602523,2017-06-20 06:15:45,2017-06-20 06:45:44,1798.586,Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,Georgetown Harbor / 30th St NW,Customer
+134,1669822,2017-06-25 04:11:38,2017-06-25 09:11:14,17976.12,14th & Harvard St NW,14th St & Colorado Ave NW,Customer
+135,937498,2017-04-25 04:50:09,2017-04-25 04:56:32,382.81,15th & K St NW,8th & O St NW,Subscriber
+136,1460907,2017-06-09 04:06:18,2017-06-09 05:16:46,4227.417,12th & Newton St NE,M St & Delaware Ave NE,Subscriber
+137,1456405,2017-06-08 10:25:30,2017-06-08 10:31:27,356.731,37th & O St NW / Georgetown University,34th St & Wisconsin Ave NW,Subscriber
+138,574654,2017-03-24 22:19:00,2017-03-24 22:25:00,376.016,Braddock Rd Metro,Commonwealth Ave & Oak St,Subscriber
+139,1550980,2017-06-15 12:40:14,2017-06-15 01:05:05,1491.158,California St & Florida Ave NW,15th & East Capitol St NE,Subscriber
+140,613828,2017-03-28 15:58:00,2017-03-28 16:11:00,787.804,14th & Rhode Island Ave NW,10th & G St NW,Subscriber
+141,765824,2017-04-11 04:26:04,2017-04-11 04:40:09,844.802,Georgetown Harbor / 30th St NW,Georgetown Harbor / 30th St NW,Customer
+142,352807,2017-02-23 16:53:00,2017-02-23 16:58:00,321.746,Clarendon Metro / Wilson Blvd & N Highland St,Fairfax Dr & Kenmore St,Subscriber
+143,1160346,2017-05-15 07:00:39,2017-05-15 07:29:40,1740.819,Connecticut Ave & Tilden St NW,5th & K St NW,Subscriber
+144,80495,2017-01-17 09:48:00,2017-01-17 09:53:00,318.8040000000001,16th & Harvard St NW,20th St & Florida Ave NW,Subscriber
+145,678855,2017-04-03 08:53:48,2017-04-03 09:06:26,758.752,Connecticut Ave & Yuma St NW,Ward Circle / American University,Subscriber
+146,1227248,2017-05-20 08:38:54,2017-05-20 09:12:48,2033.989,Jefferson Dr & 14th St SW,Jefferson Dr & 14th St SW,Customer
+147,846576,2017-04-16 06:01:51,2017-04-16 06:58:27,3396.155,Constitution Ave & 2nd St NW/DOL,Jefferson Memorial,Customer
+148,82223,2017-01-17 17:54:00,2017-01-17 18:09:00,898.953,17th & K St NW / Farragut Square,14th & Irving St NW,Subscriber
+149,599029,2017-03-27 08:25:00,2017-03-27 08:36:00,680.695,12th & U St NW,14th & G St NW,Subscriber
+150,1451278,2017-06-08 07:17:45,2017-06-08 07:23:48,363.338,Jefferson Dr & 14th St SW,20th St & Virginia Ave NW,Subscriber
+151,440973,2017-03-06 17:35:00,2017-03-06 17:54:00,1176.39,8th & H St NW,21st & M St NW,Customer
+152,1228818,2017-05-20 10:10:28,2017-05-20 10:17:03,395.024,Pershing & N George Mason Dr,Virginia Square Metro / N Monroe St & 9th St N,Subscriber
+153,895045,2017-04-20 06:10:39,2017-04-20 06:35:17,1477.836,24th & N St NW,16th & Harvard St NW,Customer
+154,1516981,2017-06-13 06:49:23,2017-06-13 07:00:15,651.98,37th & O St NW / Georgetown University,Lynn & 19th St North,Subscriber
+155,1203107,2017-05-18 09:52:36,2017-05-18 10:19:18,1601.136,Smithsonian-National Mall / Jefferson Dr & 12th St SW,4th & E St SW,Subscriber
+156,649417,2017-04-01 03:47:35,2017-04-01 04:27:48,2412.689,4th St & Madison Dr NW,Lincoln Memorial,Customer
+157,1215865,2017-05-19 09:50:38,2017-05-19 10:14:21,1423.507,N Lynn St & Fairfax Dr,23rd & E St NW ,Customer
+158,1494363,2017-06-11 08:21:08,2017-06-11 08:28:52,464.525,Constitution Ave & 2nd St NW/DOL,Constitution Ave & 2nd St NW/DOL,Customer
+159,1210885,2017-05-19 06:42:57,2017-05-19 06:52:53,595.328,5th St & Massachusetts Ave NW,10th St & Constitution Ave NW,Subscriber
+160,809328,2017-04-14 02:15:01,2017-04-14 03:19:54,3893.653,4th St & Madison Dr NW,Constitution Ave & 2nd St NW/DOL,Customer
+161,1610105,2017-06-20 11:04:01,2017-06-20 11:12:25,504.047,22nd & I St NW / Foggy Bottom,11th & M St NW,Subscriber
+162,730405,2017-04-08 09:28:20,2017-04-08 09:44:20,960.296,14th & Rhode Island Ave NW,5th & K St NW,Subscriber
+163,364761,2017-02-24 16:00:00,2017-02-24 16:23:00,1373.852,15th & K St NW,John McCormack Dr & Michigan Ave NE,Subscriber
+164,130149,2017-01-25 12:32:00,2017-01-25 12:37:00,299.665,14th & Rhode Island Ave NW,15th & K St NW,Subscriber
+165,1260201,2017-05-23 08:33:39,2017-05-23 08:49:47,968.094,Wilson Blvd & N Uhle St,34th & Water St NW,Subscriber
+166,308627,2017-02-19 12:54:00,2017-02-19 14:23:00,5358.536999999998,Jefferson Dr & 14th St SW,22nd St & Constitution Ave NW,Customer
+167,1549593,2017-06-15 10:40:13,2017-06-15 10:46:38,385.289,8th & Eye St SE / Barracks Row,3rd St & Pennsylvania Ave SE,Subscriber
+168,1716539,2017-06-28 07:20:34,2017-06-28 07:37:41,1026.409,Georgia Ave & Emerson St NW,7th & T St NW,Subscriber
+169,1137696,2017-05-13 08:33:38,2017-05-13 08:41:06,448.092,8th & F St NW,8th & H St NW,Customer
+170,1505085,2017-06-12 06:58:35,2017-06-12 07:09:44,669.072,4th & M St SW,North Capitol St & F St NW,Subscriber
+171,728022,2017-04-08 06:17:23,2017-04-08 06:22:03,280.252,Jefferson Dr & 14th St SW,17th St & Independence Ave SW,Customer
+172,25455,2017-01-06 13:17:00,2017-01-06 13:24:00,408.767,21st & I St NW,Georgetown Harbor / 30th St NW,Subscriber
+173,1067125,2017-05-05 08:12:45,2017-05-05 08:19:38,413.18300000000005,15th & P St NW,New Hampshire Ave & T St NW,Customer
+174,1410940,2017-06-05 06:16:15,2017-06-05 06:19:51,216.332,4th & M St SW,4th & E St SW,Subscriber
+175,819255,2017-04-14 08:44:21,2017-04-14 08:51:03,402.162,10th & Florida Ave NW,Thomas Circle,Subscriber
+176,886906,2017-04-19 08:57:33,2017-04-19 09:06:14,520.7280000000002,1st & O St NW,Thomas Circle,Subscriber
+177,525817,2017-03-19 14:30:00,2017-03-19 14:51:00,1273.425,3rd St & Pennsylvania Ave SE,19th St & Pennsylvania Ave NW,Subscriber
+178,1480522,2017-06-10 08:02:33,2017-06-10 08:18:30,957.578,M St & Pennsylvania Ave NW,15th & P St NW,Customer
+179,974635,2017-04-28 05:24:27,2017-04-28 05:30:26,359.085,14th & Irving St NW,15th & W St NW,Subscriber
+180,1124751,2017-05-11 09:05:10,2017-05-11 09:09:27,256.663,14th & Rhode Island Ave NW,14th St & New York Ave NW,Subscriber
+181,1628376,2017-06-22 05:07:07,2017-06-22 05:19:40,753.497,18th St & Pennsylvania Ave NW,17th St & Massachusetts Ave NW,Subscriber
+182,1349288,2017-05-31 08:53:06,2017-05-31 09:06:27,800.903,14th St & Colorado Ave NW,14th & Irving St NW,Subscriber
+183,957778,2017-04-27 03:11:48,2017-04-27 03:15:01,192.649,Park Rd & Holmead Pl NW,14th St & Spring Rd NW,Subscriber
+184,945670,2017-04-26 03:27:52,2017-04-26 03:32:42,289.75,George Mason Dr & Wilson Blvd,Ballston Metro / N Stuart & 9th St N,Subscriber
+185,1026367,2017-05-02 04:53:57,2017-05-02 05:16:14,1337.253,North Capitol St & G Pl NE,John McCormack Dr & Michigan Ave NE,Subscriber
+186,1082763,2017-05-07 11:10:44,2017-05-07 11:30:08,1164.403,M St & Delaware Ave NE,14th & D St NW / Ronald Reagan Building,Customer
+187,979524,2017-04-28 08:22:20,2017-04-28 08:38:16,955.939,13th & D St NE,5th & F St NW,Subscriber
+188,977066,2017-04-28 06:57:11,2017-04-28 07:05:08,476.673,17th & K St NW,19th & E Street NW,Subscriber
+189,1333936,2017-05-30 05:49:49,2017-05-30 05:58:54,544.863,Fairfax Dr & Kenmore St,Washington Blvd & Walter Reed Dr ,Subscriber
+190,1536884,2017-06-14 12:21:00,2017-06-14 12:33:35,754.198,34th St & Wisconsin Ave NW,C & O Canal & Wisconsin Ave NW,Subscriber
+191,1371834,2017-06-02 06:16:56,2017-06-02 06:27:40,643.836,20th & O St NW / Dupont South,7th & T St NW,Subscriber
+192,1646803,2017-06-23 08:26:21,2017-06-23 08:32:42,380.524,Harvard St & Adams Mill Rd NW,Adams Mill & Columbia Rd NW,Subscriber
+193,1539389,2017-06-15 04:12:10,2017-06-15 05:03:48,3098.406,Lyttonsville Rd & Lyttonsville Pl,Lyttonsville Rd & Lyttonsville Pl,Subscriber
+194,1110792,2017-05-10 04:35:18,2017-05-10 04:45:53,635.274,Potomac & Pennsylvania Ave SE,Pennsylvania & Minnesota Ave SE,Customer
+195,458814,2017-03-08 16:51:00,2017-03-08 17:00:00,546.7090000000002,4th & E St SW,1st & K St SE,Subscriber
+196,1686171,2017-06-26 06:47:37,2017-06-26 06:59:54,737.6469999999998,10th & Monroe St NE,M St & Delaware Ave NE,Subscriber
+197,399963,2017-02-28 17:22:00,2017-02-28 17:29:00,400.696,Washington & Independence Ave SW/HHS,4th & D St NW / Judiciary Square,Subscriber
+198,1239992,2017-05-21 09:18:02,2017-05-21 09:24:25,383.406,Maine Ave & 7th St SW,4th & E St SW,Subscriber
+199,1184518,2017-05-17 06:13:10,2017-05-17 06:21:46,516.086,8th & H St NW,19th & G St NW,Subscriber
+200,827853,2017-04-15 03:29:21,2017-04-15 03:44:28,906.67,4th & East Capitol St NE,Neal St & Trinidad Ave NE,Customer
+201,276346,2017-02-15 12:55:00,2017-02-15 12:59:00,238.814,Towers Crescent Dr & Tysons One Pl,Tysons One Pl & Chain Bridge Rd,Subscriber
+202,697686,2017-04-05 05:14:53,2017-04-05 05:26:05,671.293,17th & K St NW / Farragut Square,North Capitol St & F St NW,Subscriber
+203,1621339,2017-06-21 08:36:55,2017-06-21 09:24:03,2828.269,21st St & Constitution Ave NW,New York Ave & 15th St NW,Customer
+204,1691109,2017-06-26 09:30:28,2017-06-26 09:42:15,707.102,M St & Pennsylvania Ave NW,15th & K St NW,Customer
+205,238432,2017-02-09 10:53:00,2017-02-09 11:04:00,652.06,Mount Vernon Ave & E Nelson Ave,King St Metro South,Subscriber
+206,1323984,2017-05-29 07:01:36,2017-05-29 07:07:24,347.3880000000001,8th & Eye St SE / Barracks Row,Potomac & Pennsylvania Ave SE,Subscriber
+207,908770,2017-04-21 07:04:31,2017-04-21 07:08:16,225.465,New Hampshire Ave & T St NW,14th & V St NW,Subscriber
+208,790593,2017-04-12 10:10:12,2017-04-12 10:15:37,325.154,Massachusetts Ave & Dupont Circle NW,California St & Florida Ave NW,Subscriber
+209,1090001,2017-05-08 06:41:10,2017-05-08 07:04:07,1377.2910000000004,17th St & Massachusetts Ave NW,Hamlin & 7th St NE,Subscriber
+210,117386,2017-01-23 09:42:00,2017-01-23 10:03:00,1267.685,Columbia Pike & S Dinwiddie St / Arlington Mill Community Center,Columbia Pike & S Dinwiddie St / Arlington Mill Community Center,Subscriber
+211,475714,2017-03-10 05:35:00,2017-03-10 05:44:00,563.081,Adams Mill & Columbia Rd NW,New Hampshire Ave & 24th St NW,Subscriber
+212,1247623,2017-05-22 05:58:57,2017-05-22 06:04:45,348.81,North Capitol St & F St NW,8th & F St NW,Subscriber
+213,554574,2017-03-22 17:35:00,2017-03-22 17:53:00,1121.47,16th & R St NW,M St & Delaware Ave NE,Subscriber
+214,1661665,2017-06-24 09:53:15,2017-06-24 09:59:43,388.234,Temporary Rd & Old Reston Ave,Temporary Rd & Old Reston Ave,Subscriber
+215,1120900,2017-05-10 11:40:11,2017-05-10 11:44:10,239.815,Potomac Ave & 8th St SE,Eastern Market Metro / Pennsylvania Ave & 7th St SE,Subscriber
+216,240221,2017-02-09 17:39:00,2017-02-09 17:48:00,558.7180000000002,Franklin & S Washington St,King St Metro North / Cameron St,Subscriber
+217,943697,2017-04-25 10:05:07,2017-04-25 10:20:41,933.579,18th St & Pennsylvania Ave NW,16th & R St NW,Subscriber
+218,1479464,2017-06-10 07:04:53,2017-06-10 07:38:42,2029.735,4th & M St SW,8th & F St NW,Customer
+219,1234239,2017-05-21 02:39:36,2017-05-21 02:43:45,249.258,Hamlin & 7th St NE,Rhode Island Ave Metro,Subscriber
+220,41952,2017-01-10 20:23:00,2017-01-10 20:27:00,267.04,3rd & H St NE,M St & Delaware Ave NE,Subscriber
+221,111673,2017-01-21 19:03:00,2017-01-21 19:31:00,1682.568,10th St & Constitution Ave NW,34th & Water St NW,Subscriber
+222,986782,2017-04-29 02:43:54,2017-04-29 02:55:03,668.707,14th & Harvard St NW,1st & Rhode Island Ave NW,Customer
+223,9307,2017-01-03 21:47:00,2017-01-03 22:03:00,997.815,Independence Ave & L'Enfant Plaza SW/DOE,Florida Ave & R St NW,Subscriber
+224,636156,2017-03-30 12:31:00,2017-03-30 12:42:00,663.153,New Hampshire Ave & T St NW,18th St & Pennsylvania Ave NW,Subscriber
+225,1605777,2017-06-20 07:52:23,2017-06-20 08:08:56,993.062,New Jersey Ave & R St NW,24th & N St NW,Subscriber
+226,1019509,2017-05-01 07:41:12,2017-05-01 07:50:42,569.975,California St & Florida Ave NW,24th & N St NW,Subscriber
+227,573746,2017-03-24 19:34:00,2017-03-24 19:58:00,1441.797,19th St & Constitution Ave NW,10th & K St NW,Customer
+228,921972,2017-04-23 02:40:52,2017-04-23 03:20:34,2381.516,Henry Bacon Dr & Lincoln Memorial Circle NW,17th St & Independence Ave SW,Customer
+229,320941,2017-02-20 13:09:00,2017-02-20 13:26:00,1029.181,13th & D St NE,4th & D St NW / Judiciary Square,Customer
+230,310623,2017-02-19 14:22:00,2017-02-19 14:57:00,2099.966,Jefferson Dr & 14th St SW,Jefferson Dr & 14th St SW,Customer
+231,1581121,2017-06-18 05:47:34,2017-06-18 06:38:46,3072.286,17th & K St NW / Farragut Square,7th & E St SW,Subscriber
+232,1218069,2017-05-19 12:20:17,2017-05-19 02:54:41,9263.856,19th & E Street NW,19th & E Street NW,Customer
+233,1496930,2017-06-11 10:54:44,2017-06-11 11:20:22,1538.351,Georgetown Harbor / 30th St NW,17th & G St NW,Customer
+234,1145920,2017-05-14 05:00:47,2017-05-14 05:17:21,994.247,Monroe Ave & Leslie Ave,S Glebe & Potomac Ave,Customer
+235,1692021,2017-06-26 10:36:19,2017-06-26 10:43:57,458.001,15th & W St NW,15th & M St NW,Customer
+236,934960,2017-04-24 08:44:52,2017-04-24 09:03:43,1130.811,Montgomery & East Ln,Montgomery & East Ln,Subscriber
+237,52174,2017-01-12 09:47:00,2017-01-12 09:55:00,464.036,Massachusetts Ave & Dupont Circle NW,14th & R St NW,Customer
+238,1451301,2017-06-08 07:18:14,2017-06-08 07:30:07,712.8889999999999,2nd & G St NE,Eckington Pl & Q St NE,Customer
+239,1591204,2017-06-19 06:39:21,2017-06-19 06:53:25,844.1560000000002,11th & Kenyon St NW,22nd & P ST NW,Subscriber
+240,1182683,2017-05-17 05:10:22,2017-05-17 05:30:55,1233.125,New York Ave & 15th St NW,4th & W St NE,Subscriber
+241,239800,2017-02-09 17:02:00,2017-02-09 17:06:00,236.023,20th & O St NW / Dupont South,17th & Corcoran St NW,Subscriber
+242,69827,2017-01-15 11:52:00,2017-01-15 12:07:00,938.201,1st & Rhode Island Ave NW,20th St & Florida Ave NW,Subscriber
+243,39709,2017-01-10 15:41:00,2017-01-10 16:09:00,1704.1470000000004,Hains Point/Buckeye & Ohio Dr SW,Hains Point/Buckeye & Ohio Dr SW,Subscriber
+244,81169,2017-01-17 15:11:00,2017-01-17 15:17:00,404.934,3rd St & Pennsylvania Ave SE,Lincoln Park / 13th & East Capitol St NE ,Subscriber
+245,1487051,2017-06-10 12:45:46,2017-06-10 12:57:00,673.676,Park Rd & Holmead Pl NW,New Hampshire Ave & T St NW,Customer
+246,1603783,2017-06-20 06:54:27,2017-06-20 07:03:56,568.946,Columbus Circle / Union Station,4th & E St SW,Subscriber
+247,1379399,2017-06-02 11:57:35,2017-06-03 12:26:35,1739.547,Thomas Circle,13th & H St NE,Subscriber
+248,302205,2017-02-18 17:02:00,2017-02-18 18:37:00,5684.717,10th & G St NW,N Lynn St & Fairfax Dr,Customer
+249,1651194,2017-06-23 12:37:45,2017-06-23 12:43:39,354.13199999999995,Rhode Island & Connecticut Ave NW,14th & L St NW,Subscriber
+250,1437974,2017-06-07 07:07:10,2017-06-07 07:15:53,522.637,14th & D St NW / Ronald Reagan Building,Lincoln Memorial,Subscriber
+251,227812,2017-02-08 08:33:00,2017-02-08 08:46:00,805.311,7th & R St NW / Shaw Library,21st & M St NW,Subscriber
+252,1605680,2017-06-20 07:49:57,2017-06-20 08:00:04,607.4119999999998,7th & T St NW,7th & T St NW,Customer
+253,1310917,2017-05-28 06:41:50,2017-05-28 06:53:37,706.98,3rd & Tingey St SE,1st & D St SE,Customer
+254,804515,2017-04-13 09:14:44,2017-04-13 09:50:29,2144.164,Commonwealth Ave & Oak St,17th St & Independence Ave SW,Subscriber
+255,91952,2017-01-19 07:44:00,2017-01-19 07:54:00,575.9259999999998,Wilson Blvd & N Edgewood St,N Randolph St & Fairfax Dr,Subscriber
+256,158487,2017-01-29 13:26:00,2017-01-29 13:31:00,302.094,17th & Corcoran St NW,17th & K St NW,Subscriber
+257,1294921,2017-05-26 12:27:57,2017-05-26 02:08:01,6004.1190000000015,Saint Asaph & Madison St,Lincoln Memorial,Customer
+258,1465676,2017-06-09 07:17:37,2017-06-09 07:33:16,939.558,22nd & P ST NW,8th & F St NW,Subscriber
+259,277169,2017-02-15 15:43:00,2017-02-15 15:48:00,312.268,Saint Asaph St & Pendleton  St,Braddock Rd Metro,Subscriber
+260,1296295,2017-05-27 01:46:38,2017-05-27 02:02:34,956.032,8th & H St NW,New Hampshire Ave & T St NW,Customer
+261,41220,2017-01-10 18:28:00,2017-01-10 18:38:00,582.091,14th & Irving St NW,Thomas Circle,Subscriber
+262,1398241,2017-06-04 04:40:41,2017-06-04 05:34:03,3201.2470000000008,37th & O St NW / Georgetown University,4th & E St SW,Customer
+263,1276812,2017-05-25 04:15:58,2017-05-25 04:21:37,339.017,4th & E St SW,USDA / 12th & Independence Ave SW,Subscriber
+264,10558,2017-01-04 08:09:00,2017-01-04 08:33:00,1435.858,Mount Vernon Ave & Kennedy St,Jefferson Memorial,Subscriber
+265,455087,2017-03-08 10:09:00,2017-03-08 10:28:00,1135.053,Adams Mill & Columbia Rd NW,1st & M St NE,Subscriber
+266,647371,2017-04-01 01:49:49,2017-04-01 02:29:51,2402.1420000000007,Lincoln Memorial,14th & D St NW / Ronald Reagan Building,Customer
+267,363928,2017-02-24 15:09:00,2017-02-24 15:13:00,278.058,17th & Rhode Island Ave NW,Massachusetts Ave & Dupont Circle NW,Subscriber
+268,1366596,2017-06-02 01:36:39,2017-06-02 01:42:59,379.345,11th & H St NE,Columbus Circle / Union Station,Subscriber
+269,1594612,2017-06-19 08:56:01,2017-06-19 09:03:25,444.371,3rd St & Pennsylvania Ave SE,M St & Delaware Ave NE,Subscriber
+270,995525,2017-04-29 10:35:32,2017-04-29 10:43:00,447.846,3rd & H St NE,13th & H St NE,Subscriber
+271,1264636,2017-05-24 03:41:59,2017-05-24 04:01:17,1157.923,Columbia Pike & S Orme St,Lincoln Memorial,Customer
+272,447897,2017-03-07 13:15:00,2017-03-07 13:30:00,893.0930000000002,18th & M St NW,37th & O St NW / Georgetown University,Subscriber
+273,1238287,2017-05-21 06:50:36,2017-05-21 06:57:06,390.508,5th & K St NW,10th & E St NW,Subscriber
+274,1556418,2017-06-16 06:18:27,2017-06-16 06:25:50,443.181,L'Enfant Plaza / 7th & C St SW,14th & D St NW / Ronald Reagan Building,Subscriber
+275,1660129,2017-06-24 08:43:36,2017-06-24 08:51:35,479.272,East West Hwy & 16th St,East West Hwy & Blair Mill Rd,Customer
+276,98076,2017-01-19 20:27:00,2017-01-19 20:37:00,602.137,C & O Canal & Wisconsin Ave NW,22nd & I St NW / Foggy Bottom,Customer
+277,1739087,2017-06-30 02:55:58,2017-06-30 03:00:05,246.98,10th & Florida Ave NW,14th & V St NW,Subscriber
+278,1430400,2017-06-06 11:11:16,2017-06-06 11:39:50,1714.625,10th & Monroe St NE,14th & R St NW,Subscriber
+279,1138633,2017-05-13 10:05:24,2017-05-13 10:08:14,170.241,14th & D St SE,15th St & Massachusetts Ave SE,Subscriber
+280,1494488,2017-06-11 08:28:47,2017-06-11 08:33:34,287.13,Wilson Blvd & N Edgewood St,Fairfax Dr & Kenmore St,Subscriber
+281,533094,2017-03-20 14:34:00,2017-03-20 14:58:00,1444.307,New York Ave & 15th St NW,7th & F St NW/Portrait Gallery,Customer
+282,1714077,2017-06-28 06:06:44,2017-06-28 06:20:29,825.461,Henry Bacon Dr & Lincoln Memorial Circle NW,Lee Hwy & N Scott St,Subscriber
+283,407740,2017-03-01 18:11:00,2017-03-01 18:25:00,891.3989999999999,21st St & Pennsylvania Ave NW,5th St & Massachusetts Ave NW,Subscriber
+284,1098965,2017-05-09 05:15:01,2017-05-09 05:34:21,1160.381,10th & K St NW,Potomac & Pennsylvania Ave SE,Subscriber
+285,521787,2017-03-18 17:27:00,2017-03-18 17:30:00,201.276,15th & P St NW,17th & Rhode Island Ave NW,Subscriber
+286,379715,2017-02-26 10:39:00,2017-02-26 10:48:00,544.617,15th & P St NW,New York Ave & 15th St NW,Subscriber
+287,763171,2017-04-11 01:10:41,2017-04-11 01:30:07,1166.0739999999996,Jefferson Memorial,Lincoln Memorial,Customer
+288,559337,2017-03-23 09:11:00,2017-03-23 09:23:00,704.48,Calvert St & Woodley Pl NW,21st St & Pennsylvania Ave NW,Subscriber
+289,570973,2017-03-24 16:54:00,2017-03-24 17:26:00,1888.943,4th St & Madison Dr NW,Lincoln Memorial,Customer
+290,1133840,2017-05-13 02:31:15,2017-05-13 02:53:46,1351.816,6th St & Indiana Ave NW,Jefferson Dr & 14th St SW,Customer
+291,1208261,2017-05-19 04:56:00,2017-05-19 05:01:51,351.2390000000001,10th & K St NW,North Capitol St & F St NW,Subscriber
+292,267177,2017-02-14 08:37:00,2017-02-14 08:44:00,440.396,Lee Hwy & N Adams St,Lynn & 19th St North,Subscriber
+293,601066,2017-03-27 13:02:00,2017-03-27 13:45:00,2620.91,6th St & Indiana Ave NW,4th St & Madison Dr NW,Customer
+294,1130836,2017-05-12 09:27:31,2017-05-12 09:33:04,332.825,8th & O St NW,10th & G St NW,Subscriber
+295,77719,2017-01-16 18:39:00,2017-01-16 18:55:00,933.324,8th & O St NW,New Hampshire Ave & T St NW,Subscriber
+296,1321030,2017-05-29 04:12:05,2017-05-29 04:40:06,1680.565,10th & E St NW,Jefferson Memorial,Subscriber
+297,1044668,2017-05-03 07:44:49,2017-05-03 07:51:49,420.555,16th & R St NW,New Hampshire Ave & 24th St NW,Subscriber
+298,628295,2017-03-29 17:39:00,2017-03-29 17:50:00,607.095,16th & K St NW,16th & K St NW,Customer
+299,1377059,2017-06-02 09:22:02,2017-06-02 09:36:37,874.41,22nd & P ST NW,14th & R St NW,Subscriber
+300,1310333,2017-05-28 05:56:28,2017-05-28 06:02:35,366.871,1st & D St SE,M St & New Jersey Ave SE,Subscriber
+301,924133,2017-04-23 04:44:01,2017-04-23 04:47:34,213.473,D St & Maryland Ave NE,11th & H St NE,Subscriber
+302,1621225,2017-06-21 08:33:58,2017-06-21 08:51:25,1047.107,14th & Irving St NW,14th St & New York Ave NW,Subscriber
+303,1658817,2017-06-24 07:36:34,2017-06-24 07:49:59,804.405,Lynn & 19th St North,34th St & Wisconsin Ave NW,Subscriber
+304,643168,2017-03-31 08:33:00,2017-03-31 08:46:00,762.948,14th & D St NW / Ronald Reagan Building,Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,Subscriber
+305,429803,2017-03-04 20:27:00,2017-03-04 20:37:00,591.502,New York Ave & 15th St NW,15th & P St NW,Subscriber
+306,17016,2017-01-05 07:08:00,2017-01-05 07:26:00,1058.272,Central Library / N Quincy St & 10th St N,Lincoln Memorial,Subscriber
+307,1690628,2017-06-26 09:06:33,2017-06-26 09:11:19,285.476,Crystal City Metro / 18th & Bell St,27th & Crystal Dr,Subscriber
+308,1575991,2017-06-17 12:18:59,2017-06-17 12:42:03,1384.189,4th & C St SW,Hains Point/Buckeye & Ohio Dr SW,Subscriber
+309,167169,2017-01-31 06:13:00,2017-01-31 06:18:00,275.217,M St & Delaware Ave NE,Columbus Circle / Union Station,Subscriber
+310,628507,2017-03-29 17:46:00,2017-03-29 18:03:00,1020.29,18th & R St NW,Lincoln Memorial,Subscriber
+311,1113701,2017-05-10 06:17:23,2017-05-10 06:27:41,618.191,4th & M St SW,8th & D St NW,Subscriber
+312,766040,2017-04-11 04:37:53,2017-04-11 04:53:39,945.893,Jefferson Dr & 14th St SW,Henry Bacon Dr & Lincoln Memorial Circle NW,Customer
+313,1669143,2017-06-25 03:37:13,2017-06-25 03:51:36,863.318,4th St & Madison Dr NW,11th & O St NW,Customer
+314,277185,2017-02-15 15:44:00,2017-02-15 15:54:00,581.881,Eastern Market Metro / Pennsylvania Ave & 7th St SE,Maryland Ave & E St NE,Subscriber
+315,1072603,2017-05-06 08:45:23,2017-05-06 09:19:46,2063.165,New Hampshire Ave & 24th St NW,11th & Kenyon St NW,Subscriber
+316,648459,2017-04-01 02:53:46,2017-04-01 03:00:42,416.44,Thomas Circle,21st St & Pennsylvania Ave NW,Subscriber
+317,1205211,2017-05-19 01:04:58,2017-05-19 01:20:29,930.982,17th St & Independence Ave SW,Lincoln Memorial,Customer
+318,1094321,2017-05-08 10:03:06,2017-05-08 10:20:42,1056.149,Georgia & New Hampshire Ave NW,14th & R St NW,Subscriber
+319,1402515,2017-06-04 09:16:54,2017-06-04 09:36:26,1171.22,Columbia & Ontario Rd NW,US Dept of State / Virginia Ave & 21st St NW,Customer
+320,1370769,2017-06-02 05:40:16,2017-06-02 05:49:38,562.232,Reston Town Center Transit Station,Reston Station,Subscriber
+321,531154,2017-03-20 09:25:00,2017-03-20 10:04:00,2302.829,22nd & P ST NW,16th & Irving St NW,Customer
+322,106485,2017-01-21 10:25:00,2017-01-21 11:04:00,2324.446,16th & Irving St NW,10th St & L'Enfant Plaza SW,Subscriber
+323,1200958,2017-05-18 08:09:57,2017-05-18 08:21:52,714.824,Ward Circle / American University,Connecticut & Nebraska Ave NW,Subscriber
+324,1315995,2017-05-28 11:57:16,2017-05-29 12:09:26,730.26,8th & F St NW,22nd & P ST NW,Subscriber
+325,288547,2017-02-17 09:04:00,2017-02-17 09:25:00,1270.063,3rd & G St SE,New York Ave & 15th St NW,Customer
+326,1279221,2017-05-25 08:05:23,2017-05-25 08:13:08,465.503,Braddock Rd Metro,Madison & Fairfax St,Customer
+327,932497,2017-04-24 06:17:33,2017-04-24 06:29:41,728.794,21st St & Pennsylvania Ave NW,5th & K St NW,Subscriber
+328,437852,2017-03-06 11:12:00,2017-03-06 11:17:00,273.319,Eastern Market Metro / Pennsylvania Ave & 7th St SE,3rd & G St SE,Subscriber
+329,976590,2017-04-28 06:37:44,2017-04-28 07:26:01,2897.1220000000008,3rd St & Pennsylvania Ave SE,20th & E St NW,Customer
+330,1260800,2017-05-23 09:01:33,2017-05-23 09:07:22,348.64,S Joyce & 16th St S,Crystal City Metro / 18th & Bell St,Subscriber
+331,200497,2017-02-04 16:26:00,2017-02-04 16:38:00,717.812,14th St Heights / 14th & Crittenden St NW,Park Rd & Holmead Pl NW,Subscriber
+332,541331,2017-03-21 10:29:00,2017-03-21 10:40:00,683.66,24th & N St NW,14th & Rhode Island Ave NW,Subscriber
+333,1718497,2017-06-28 08:14:02,2017-06-28 08:21:47,464.512,10th & G St NW,15th & K St NW,Customer
+334,1269763,2017-05-24 07:31:42,2017-05-24 07:47:43,961.29,Lincoln Park / 13th & East Capitol St NE ,Independence Ave & L'Enfant Plaza SW/DOE,Subscriber
+335,897971,2017-04-20 07:49:00,2017-04-20 07:54:36,335.506,New Hampshire Ave & T St NW,24th & N St NW,Subscriber
+336,109337,2017-01-21 15:12:00,2017-01-21 15:22:00,552.929,8th & East Capitol St NE,3rd & G St SE,Subscriber
+337,65244,2017-01-13 18:07:00,2017-01-13 18:27:00,1187.018,L'Enfant Plaza / 7th & C St SW,15th & East Capitol St NE,Subscriber
+338,282144,2017-02-16 08:52:00,2017-02-16 09:00:00,477.426,18th & R St NW,11th & O St NW,Subscriber
+339,187599,2017-02-02 16:32:00,2017-02-02 16:38:00,361.635,17th & Rhode Island Ave NW,21st & I St NW,Subscriber
+340,1570198,2017-06-17 07:13:01,2017-06-17 07:49:09,2168.424,Columbia Rd & Belmont St NW,Lincoln Memorial,Customer
+341,369827,2017-02-24 21:21:00,2017-02-24 21:41:00,1231.747,14th & G St NW,North Capitol St & F St NW,Customer
+342,51451,2017-01-12 08:43:00,2017-01-12 08:50:00,455.279,17th & K St NW,14th & Rhode Island Ave NW,Subscriber
+343,1384051,2017-06-03 04:06:56,2017-06-03 04:23:52,1016.835,11th & Kenyon St NW,17th & K St NW / Farragut Square,Subscriber
+344,1740807,2017-06-30 04:45:28,2017-06-30 05:09:46,1458.307,River Rd & Landy Ln,River Rd & Landy Ln,Subscriber
+345,1179477,2017-05-16 12:12:01,2017-05-16 02:43:49,9107.897,Lincoln Memorial,S Joyce & Army Navy Dr,Customer
+346,663965,2017-04-02 06:17:58,2017-04-02 06:44:50,1612.3429999999996,Jefferson Memorial,12th & L St NW,Subscriber
+347,25444,2017-01-06 13:14:00,2017-01-06 13:16:00,138.248,Florida Ave & R St NW,New Jersey Ave & R St NW,Subscriber
+348,929504,2017-04-23 11:49:19,2017-04-23 11:51:42,142.741,14th & Irving St NW,11th & Kenyon St NW,Subscriber
+349,963502,2017-04-27 07:16:34,2017-04-27 07:34:53,1098.968,Lynn & 19th St North,22nd & I St NW / Foggy Bottom,Subscriber
+350,818403,2017-04-14 08:16:41,2017-04-14 08:34:24,1062.78,8th & D St NW,12th & U St NW,Subscriber
+351,902353,2017-04-21 01:25:33,2017-04-21 01:51:49,1576.006,22nd St & Constitution Ave NW,20th & E St NW,Customer
+352,473396,2017-03-09 18:37:00,2017-03-09 18:48:00,685.19,Georgia & New Hampshire Ave NW,Adams Mill & Columbia Rd NW,Subscriber
+353,1248362,2017-05-22 06:29:51,2017-05-22 06:32:58,186.975,Eastern Market Metro / Pennsylvania Ave & 7th St SE,8th & East Capitol St NE,Subscriber
+354,1580839,2017-06-18 05:27:03,2017-06-18 05:46:55,1191.669,8th & O St NW,24th & N St NW,Subscriber
+355,28066,2017-01-06 20:13:00,2017-01-06 20:19:00,332.7030000000001,Duke St & John Carlyle St,Eisenhower Ave & Mill Race Ln,Subscriber
+356,415792,2017-03-02 17:36:00,2017-03-02 17:43:00,395.663,12th & U St NW,15th & P St NW,Subscriber
+357,118393,2017-01-23 18:02:00,2017-01-23 18:17:00,866.3660000000001,1st & M St NE,4th & E St SW,Subscriber
+358,1210867,2017-05-19 06:42:12,2017-05-19 06:44:11,118.642,15th & L St NW,17th & K St NW,Subscriber
+359,1050140,2017-05-04 01:23:53,2017-05-04 01:40:00,966.934,Braddock Rd Metro,S Glebe & Potomac Ave,Subscriber
+360,1464172,2017-06-09 06:15:51,2017-06-09 06:39:09,1398.253,17th St & Independence Ave SW,Columbus Circle / Union Station,Subscriber
+361,253342,2017-02-11 18:39:00,2017-02-11 18:53:00,836.888,Washington & Independence Ave SW/HHS,Smithsonian-National Mall / Jefferson Dr & 12th St SW,Customer
+362,696427,2017-04-05 04:12:38,2017-04-05 04:32:34,1196.236,Georgia Ave and Fairmont St NW,New York Ave & 15th St NW,Subscriber
+363,691575,2017-04-04 09:02:36,2017-04-04 09:05:19,162.89700000000005,17th St & Massachusetts Ave NW,17th & K St NW,Subscriber
+364,1089977,2017-05-08 06:40:19,2017-05-08 07:04:29,1449.5020000000004,Henry Bacon Dr & Lincoln Memorial Circle NW,10th & G St NW,Customer
+365,1120744,2017-05-10 11:23:13,2017-05-10 11:33:59,646.312,New Jersey Ave & R St NW,New Hampshire Ave & T St NW,Subscriber
+366,222900,2017-02-07 17:55:00,2017-02-07 18:03:00,532.789,Calvert St & Woodley Pl NW,Park Rd & Holmead Pl NW,Subscriber
+367,53262,2017-01-12 13:24:00,2017-01-12 13:57:00,2026.644,Jefferson Dr & 14th St SW,L'Enfant Plaza / 7th & C St SW,Customer
+368,1714858,2017-06-28 06:29:08,2017-06-28 06:35:02,353.631,11th & Girard St NW,Park Rd & Holmead Pl NW,Subscriber
+369,1011157,2017-04-30 11:59:40,2017-04-30 12:13:18,817.378,Lincoln Memorial,Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,Customer
+370,1278962,2017-05-25 07:39:19,2017-05-25 07:46:41,442.437,20th St & Florida Ave NW,18th & M St NW,Subscriber
+371,386189,2017-02-27 08:11:00,2017-02-27 08:27:00,960.173,15th & W St NW,20th St & Virginia Ave NW,Subscriber
+372,430563,2017-03-05 08:45:00,2017-03-05 09:06:00,1262.842,S Joyce & Army Navy Dr,Washington Blvd & Walter Reed Dr ,Subscriber
+373,581292,2017-03-25 13:42:00,2017-03-25 13:51:00,513.222,5th & K St NW,10th & E St NW,Customer
+374,343322,2017-02-22 18:08:00,2017-02-22 18:26:00,1034.686,19th & K St NW,8th & H St NW,Customer
+375,183342,2017-02-02 06:52:00,2017-02-02 07:05:00,793.185,4th & M St SW,New York Ave & 15th St NW,Subscriber
+376,1447638,2017-06-08 05:22:28,2017-06-08 05:46:41,1452.82,4th & C St SW,Jefferson Memorial,Customer
+377,997489,2017-04-29 11:54:59,2017-04-29 12:57:06,3727.212,8th & O St NW,4th & M St SW,Customer
+378,823078,2017-04-14 12:11:13,2017-04-14 12:18:02,408.447,Thomas Circle,7th & T St NW,Subscriber
+379,300880,2017-02-18 15:55:00,2017-02-18 16:04:00,591.872,Market Square / King St & Royal St,King St Metro South,Customer
+380,888118,2017-04-19 10:12:45,2017-04-19 11:06:18,3212.073,Ballenger Ave & Dulaney St,Potomac & M St NW,Subscriber
+381,542487,2017-03-21 13:44:00,2017-03-21 13:53:00,549.488,9th & Upshur St NW,7th & T St NW,Subscriber
+382,809584,2017-04-14 02:28:21,2017-04-14 02:49:45,1284.582,11th & O St NW,North Capitol St & F St NW,Subscriber
+383,772007,2017-04-11 07:45:41,2017-04-11 08:23:29,2267.873,25th St & Pennsylvania Ave NW,Eastern Market / 7th & North Carolina Ave SE,Subscriber
+384,1112591,2017-05-10 05:42:40,2017-05-10 05:53:36,655.3580000000002,3rd & Elm St NW,18th & R St NW,Subscriber
+385,1314896,2017-05-28 11:07:51,2017-05-28 11:12:27,276.139,Lincoln Park / 13th & East Capitol St NE ,13th & H St NE,Subscriber
+386,1338056,2017-05-30 08:40:01,2017-05-30 08:52:39,757.283,Iwo Jima Memorial/N Meade & 14th St N,17th St & Independence Ave SW,Subscriber
+387,1013693,2017-05-01 02:56:52,2017-05-01 02:59:22,150.07,22nd & I St NW / Foggy Bottom,21st & M St NW,Subscriber
+388,196534,2017-02-03 19:14:00,2017-02-03 19:18:00,283.9170000000001,Calvert St & Woodley Pl NW,18th St & Wyoming Ave NW,Subscriber
+389,500337,2017-03-15 09:21:00,2017-03-15 09:48:00,1650.611,Park Rd & Holmead Pl NW,17th & G St NW,Subscriber
+390,710210,2017-04-06 06:33:56,2017-04-06 06:35:27,91.137,Columbus Circle / Union Station,2nd & G St NE,Subscriber
+391,396405,2017-02-28 10:01:00,2017-02-28 10:16:00,848.575,Columbus Circle / Union Station,Jefferson Dr & 14th St SW,Subscriber
+392,393656,2017-02-28 06:50:00,2017-02-28 07:01:00,671.691,L'Enfant Plaza / 7th & C St SW,New York Ave & 15th St NW,Subscriber
+393,1491709,2017-06-11 05:18:53,2017-06-11 05:31:35,762.6039999999998,USDA / 12th & Independence Ave SW,Jefferson Memorial,Customer
+394,1508678,2017-06-12 08:59:07,2017-06-12 09:16:11,1024.28,17th St & Independence Ave SW,4th & C St SW,Customer
+395,685438,2017-04-04 05:35:22,2017-04-04 05:39:53,270.835,7th & R St NW / Shaw Library,1st & Rhode Island Ave NW,Subscriber
+396,1092752,2017-05-08 08:28:43,2017-05-08 08:45:03,979.647,17th St & Massachusetts Ave NW,4th & D St NW / Judiciary Square,Subscriber
+397,1184971,2017-05-17 06:27:02,2017-05-17 06:40:56,834.047,Columbus Circle / Union Station,3rd & Tingey St SE,Subscriber
+398,1441761,2017-06-07 09:12:20,2017-06-07 09:27:38,918.025,Park Rd & Holmead Pl NW,1st & O St NW,Subscriber
+399,409236,2017-03-01 20:17:00,2017-03-01 20:31:00,876.3710000000002,3rd & Tingey St SE,3rd & H St NE,Customer
+400,1212266,2017-05-19 07:34:47,2017-05-19 07:47:53,785.7439999999998,Jefferson Memorial,15th & L St NW,Subscriber
+401,594529,2017-03-26 14:03:00,2017-03-26 14:23:00,1151.394,14th & G St NW,Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,Customer
+402,1180662,2017-05-17 02:26:25,2017-05-17 02:33:04,398.726,19th & K St NW,22nd St & Constitution Ave NW,Subscriber
+403,1202977,2017-05-18 09:42:51,2017-05-18 09:48:18,327.254,Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,22nd St & Constitution Ave NW,Subscriber
+404,983873,2017-04-28 12:10:20,2017-04-28 12:18:20,479.464,6th St & Indiana Ave NW,New York Ave & 15th St NW,Subscriber
+405,1075071,2017-05-07 01:13:51,2017-05-07 01:18:44,292.956,3rd & D St SE,1st & K St SE,Subscriber
+406,415895,2017-03-02 17:42:00,2017-03-02 17:45:00,196.844,5th & K St NW,New Jersey Ave & N St NW/Dunbar HS,Subscriber
+407,941287,2017-04-25 07:51:11,2017-04-25 07:59:38,507.385,M St & Pennsylvania Ave NW,17th St & Massachusetts Ave NW,Subscriber
+408,880319,2017-04-19 04:50:01,2017-04-19 06:16:28,5187.0920000000015,Lincoln Memorial,Smithsonian-National Mall / Jefferson Dr & 12th St SW,Customer
+409,179351,2017-02-01 16:30:00,2017-02-01 16:37:00,413.574,New York Ave & 15th St NW,5th St & Massachusetts Ave NW,Subscriber
+410,311146,2017-02-19 14:43:00,2017-02-19 15:48:00,3905.889,22nd St & Constitution Ave NW,Washington & Independence Ave SW/HHS,Customer
+411,787247,2017-04-12 07:55:25,2017-04-12 08:15:23,1197.549,1st & D St SE,21st St & Constitution Ave NW,Subscriber
+412,1686650,2017-06-26 07:03:38,2017-06-26 07:25:15,1296.617,1st & M St NE,11th & Kenyon St NW,Subscriber
+413,530374,2017-03-20 08:26:00,2017-03-20 08:33:00,371.371,11th & H St NE,Columbus Circle / Union Station,Subscriber
+414,1058428,2017-05-04 08:28:55,2017-05-04 08:33:27,272.02,12th & L St NW,15th & P St NW,Subscriber
+415,1035586,2017-05-02 10:38:52,2017-05-02 11:05:26,1593.9679999999996,5th St & Massachusetts Ave NW,Park Rd & Holmead Pl NW,Customer
+416,50718,2017-01-12 08:02:00,2017-01-12 08:19:00,1035.74,15th & F St NE,Metro Center / 12th & G St NW,Subscriber
+417,1401030,2017-06-04 07:36:47,2017-06-04 07:46:45,598.648,Potomac & M St NW,24th & N St NW,Customer
+418,1186026,2017-05-17 07:03:33,2017-05-17 07:08:22,288.388,Kennedy Center,US Dept of State / Virginia Ave & 21st St NW,Subscriber
+419,1248817,2017-05-22 06:53:49,2017-05-22 07:04:28,638.807,Florida Ave & R St NW,4th & D St NW / Judiciary Square,Subscriber
+420,323061,2017-02-20 15:17:00,2017-02-20 15:29:00,694.4830000000002,8th & H St NW,1st & M St NE,Subscriber
+421,189967,2017-02-02 19:50:00,2017-02-02 20:10:00,1177.139,Clarendon Blvd & Pierce St,Fairfax Dr & Kenmore St,Subscriber
+422,712907,2017-04-06 08:40:00,2017-04-06 08:51:17,677.466,10th & Florida Ave NW,22nd & P ST NW,Subscriber
+423,272051,2017-02-14 19:09:00,2017-02-14 19:18:00,516.969,5th & K St NW,M St & Delaware Ave NE,Subscriber
+424,1708108,2017-06-27 12:01:01,2017-06-27 01:09:33,4112.248,Smithsonian-National Mall / Jefferson Dr & 12th St SW,Smithsonian-National Mall / Jefferson Dr & 12th St SW,Customer
+425,1390127,2017-06-03 09:51:07,2017-06-03 09:56:38,331.6140000000001,7th & T St NW,14th & V St NW,Subscriber
+426,794816,2017-04-13 03:52:01,2017-04-13 04:03:00,659.2610000000002,16th & Irving St NW,17th St & Massachusetts Ave NW,Subscriber
+427,1692748,2017-06-26 11:33:33,2017-06-26 11:38:18,285.2940000000001,15th & Euclid St  NW,Columbia Rd & Belmont St NW,Subscriber
+428,1516403,2017-06-13 06:30:29,2017-06-13 06:49:54,1165.451,Independence Ave & L'Enfant Plaza SW/DOE,3rd & Tingey St SE,Customer
+429,886603,2017-04-19 08:45:57,2017-04-19 09:09:23,1405.937,1st & K St SE,17th & G St NW,Subscriber
+430,216984,2017-02-07 07:57:00,2017-02-07 08:10:00,746.341,14th & Irving St NW,14th & L St NW,Subscriber
+431,564111,2017-03-23 18:31:00,2017-03-23 18:37:00,375.701,1st & H St NW,New Jersey Ave & N St NW/Dunbar HS,Subscriber
+432,1648971,2017-06-23 09:50:51,2017-06-23 09:56:16,325.04,12th & U St NW,11th & M St NW,Subscriber
+433,588214,2017-03-25 18:24:00,2017-03-25 19:56:00,5484.166,17th St & Independence Ave SW,8th & D St NW,Customer
+434,1651657,2017-06-24 01:11:03,2017-06-24 01:31:22,1218.554,14th & V St NW,8th & F St NE,Subscriber
+435,461408,2017-03-08 18:56:00,2017-03-08 19:06:00,584.654,19th & K St NW,New Hampshire Ave & T St NW,Customer
+436,1585449,2017-06-18 10:45:40,2017-06-18 11:25:52,2412.743,Jefferson Memorial,17th St & Independence Ave SW,Customer
+437,1157960,2017-05-15 05:38:37,2017-05-15 05:49:20,642.37,22nd St & Constitution Ave NW,14th & G St NW,Subscriber
+438,749293,2017-04-10 01:02:05,2017-04-10 01:18:27,982.297,Lincoln Memorial,4th St & Madison Dr NW,Subscriber
+439,1158636,2017-05-15 06:01:43,2017-05-15 06:07:47,364.309,3rd & G St SE,Eastern Market Metro / Pennsylvania Ave & 7th St SE,Subscriber
+440,1117666,2017-05-10 08:25:02,2017-05-10 08:38:46,824.438,10th & Monroe St NE,North Capitol St & F St NW,Subscriber
+441,346415,2017-02-23 07:16:00,2017-02-23 07:29:00,809.687,14th & Girard St NW,21st St & Pennsylvania Ave NW,Subscriber
+442,1647262,2017-06-23 08:40:28,2017-06-23 09:05:58,1529.848,Jefferson Memorial,Lincoln Memorial,Customer
+443,518100,2017-03-18 13:41:00,2017-03-18 13:54:00,803.85,Jefferson Memorial,Lincoln Memorial,Customer
+444,134140,2017-01-25 18:40:00,2017-01-25 18:51:00,663.125,14th & V St NW,Rhode Island Ave & V St NE,Subscriber
+445,266230,2017-02-14 07:33:00,2017-02-14 07:42:00,514.931,Bladensburg Rd & Benning Rd NE,Columbus Circle / Union Station,Subscriber
+446,211035,2017-02-06 13:41:00,2017-02-06 13:51:00,639.337,7th & F St NW/Portrait Gallery,10th St & L'Enfant Plaza SW,Subscriber
+447,763421,2017-04-11 01:29:01,2017-04-11 01:35:02,360.656,3rd & Elm St NW,7th & R St NW / Shaw Library,Subscriber
+448,142288,2017-01-26 18:24:00,2017-01-26 18:28:00,239.264,Adams Mill & Columbia Rd NW,14th & Harvard St NW,Subscriber
+449,173949,2017-01-31 19:53:00,2017-01-31 20:16:00,1397.044,1st & K St SE,23rd & E St NW ,Customer
+450,1468038,2017-06-09 08:33:13,2017-06-09 08:36:44,211.36,Anacostia Metro,Good Hope Rd & MLK Ave SE,Subscriber
+451,1339369,2017-05-30 10:51:38,2017-05-30 11:07:46,968.155,21st & I St NW,14th & V St NW,Subscriber
+452,941686,2017-04-25 08:09:17,2017-04-25 08:14:13,296.291,4th & C St SW,Constitution Ave & 2nd St NW/DOL,Subscriber
+453,562102,2017-03-23 16:39:00,2017-03-23 16:46:00,437.745,Ward Circle / American University,Wisconsin Ave & Newark St NW,Subscriber
+454,1085015,2017-05-08 01:57:04,2017-05-08 02:11:36,871.7689999999999,Potomac & M St NW,21st & M St NW,Customer
+455,910133,2017-04-21 07:57:24,2017-04-21 08:07:09,584.702,2nd & G St NE,4th & East Capitol St NE,Customer
+456,307543,2017-02-19 12:04:00,2017-02-19 13:02:00,3489.993,Rosslyn Metro / Wilson Blvd & Ft Myer Dr,3rd St & Pennsylvania Ave SE,Customer
+457,1626321,2017-06-22 02:29:29,2017-06-22 02:35:33,363.2480000000001,Potomac & Pennsylvania Ave SE,Eastern Market Metro / Pennsylvania Ave & 7th St SE,Subscriber
+458,803961,2017-04-13 08:53:27,2017-04-13 08:57:41,253.826,Aurora Hills Community Ctr/18th & Hayes St,Crystal City Metro / 18th & Bell St,Subscriber
+459,829139,2017-04-15 04:17:48,2017-04-15 04:51:55,2046.945,23rd & Crystal Dr,Lynn & 19th St North,Customer
+460,510394,2017-03-17 12:36:00,2017-03-17 12:49:00,727.552,C & O Canal & Wisconsin Ave NW,19th & G St NW,Subscriber
+461,174361,2017-01-31 21:03:00,2017-01-31 21:07:00,243.688,15th & P St NW,Thomas Circle,Subscriber
+462,275514,2017-02-15 09:45:00,2017-02-15 09:51:00,378.843,10th & K St NW,17th & K St NW / Farragut Square,Subscriber
+463,1067511,2017-05-05 08:58:31,2017-05-05 09:10:46,734.291,11th & Kenyon St NW,Georgia Ave & Emerson St NW,Subscriber
+464,274552,2017-02-15 08:30:00,2017-02-15 08:42:00,697.332,Kennedy Center,Lincoln Memorial,Customer
+465,144034,2017-01-27 05:54:00,2017-01-27 06:09:00,899.2230000000002,M St & Delaware Ave NE,1st & N St  SE,Subscriber
+466,1742298,2017-06-30 05:46:53,2017-06-30 06:05:33,1119.582,Thomas Circle,15th & P St NW,Customer
+467,1304996,2017-05-27 11:14:16,2017-05-27 11:19:50,333.6280000000001,4th & East Capitol St NE,12th St & Pennsylvania Ave SE,Subscriber
+468,231196,2017-02-08 15:42:00,2017-02-08 15:52:00,586.164,14th & L St NW,North Capitol St & F St NW,Subscriber
+469,1174240,2017-05-16 07:41:25,2017-05-16 07:56:20,895.1289999999998,Calvert St & Woodley Pl NW,15th & P St NW,Customer
+470,885547,2017-04-19 08:12:34,2017-04-19 08:15:25,171.05,12th & Irving St NE,10th & Monroe St NE,Subscriber
+471,1042546,2017-05-03 06:35:56,2017-05-03 06:37:47,110.458,15th & Euclid St  NW,14th & Belmont St NW,Subscriber
+472,1069569,2017-05-06 02:06:48,2017-05-06 02:33:42,1613.537,20th St & Florida Ave NW,10th St & Constitution Ave NW,Subscriber
+473,839378,2017-04-15 12:05:31,2017-04-15 12:23:48,1096.941,Eastern Market / 7th & North Carolina Ave SE,New Jersey Ave & L St NW,Subscriber
+474,724464,2017-04-08 03:11:54,2017-04-08 04:05:36,3221.7209999999995,34th & Water St NW,Crystal City Metro / 18th & Bell St,Subscriber
+475,1500646,2017-06-12 03:44:00,2017-06-12 03:55:45,705.572,16th & Harvard St NW,Rhode Island & Connecticut Ave NW,Subscriber
+476,68299,2017-01-14 17:44:00,2017-01-14 17:51:00,452.614,TJ Cmty Ctr / 2nd St & S Old Glebe Rd,TJ Cmty Ctr / 2nd St & S Old Glebe Rd,Subscriber
+477,1397058,2017-06-04 03:27:47,2017-06-04 03:39:09,682.028,34th & Water St NW,Massachusetts Ave & Dupont Circle NW,Subscriber
+478,66196,2017-01-13 20:01:00,2017-01-13 20:11:00,585.038,Massachusetts Ave & Dupont Circle NW,New Hampshire Ave & 24th St NW,Subscriber
+479,352712,2017-02-23 16:48:00,2017-02-23 17:10:00,1291.718,16th & Irving St NW,12th & Newton St NE,Subscriber
+480,1177154,2017-05-16 09:08:24,2017-05-16 09:36:09,1664.581,14th & R St NW,2nd & G St NE,Subscriber
+481,1546153,2017-06-15 08:07:54,2017-06-15 08:19:19,685.422,14th & D St NW / Ronald Reagan Building,24th & N St NW,Subscriber
+482,225664,2017-02-07 23:16:00,2017-02-07 23:19:00,179.862,Adams Mill & Columbia Rd NW,15th & Euclid St  NW,Subscriber
+483,772205,2017-04-11 07:51:12,2017-04-11 08:11:42,1230.014,22nd & I St NW / Foggy Bottom,Calvert St & Woodley Pl NW,Customer
+484,1129644,2017-05-12 08:15:10,2017-05-12 08:21:45,394.823,14th & Rhode Island Ave NW,12th & U St NW,Subscriber
+485,370206,2017-02-24 22:42:00,2017-02-24 22:52:00,614.757,7th & T St NW,8th & H St NW,Subscriber
+486,887755,2017-04-19 09:47:17,2017-04-19 09:52:05,288.025,3rd & H St NE,D St & Maryland Ave NE,Subscriber
+487,492123,2017-03-13 08:04:00,2017-03-13 08:10:00,356.103,N Rhodes & 16th St N,Lynn & 19th St North,Subscriber
+488,860942,2017-04-17 08:00:36,2017-04-17 08:11:26,650.36,14th & Irving St NW,17th & K St NW,Subscriber
+489,25911,2017-01-06 15:16:00,2017-01-06 15:25:00,511.971,19th & G St NW,24th & N St NW,Subscriber
+490,1442236,2017-06-07 09:42:52,2017-06-07 09:54:59,727.015,13th St & New York Ave NW,1st & M St NE,Subscriber
+491,597953,2017-03-27 06:18:00,2017-03-27 06:26:00,529.89,North Capitol St & F St NW,Smithsonian-National Mall / Jefferson Dr & 12th St SW,Subscriber
+492,1618407,2017-06-21 07:16:15,2017-06-21 07:24:17,482.173,8th & O St NW,3rd & Elm St NW,Subscriber
+493,517668,2017-03-18 13:12:00,2017-03-18 13:25:00,778.8889999999999,37th & O St NW / Georgetown University,34th St & Wisconsin Ave NW,Customer
+494,1106172,2017-05-09 09:30:04,2017-05-09 09:41:03,659.3389999999998,14th & G St NW,11th & S St NW,Subscriber
+495,1503113,2017-06-12 05:47:08,2017-06-12 05:50:57,228.728,1st & D St SE,1st & K St SE,Subscriber
+496,1462729,2017-06-09 05:25:14,2017-06-09 05:48:47,1412.776,Jefferson Memorial,Columbia Pike & S Orme St,Subscriber
+497,353266,2017-02-23 17:13:00,2017-02-23 17:24:00,677.3969999999998,Maryland & Independence Ave SW,Columbus Circle / Union Station,Subscriber
+498,916109,2017-04-22 02:24:30,2017-04-22 02:31:20,409.163,Saint Asaph & Madison St,Potomac Greens Dr & Slaters Ln,Subscriber
+499,439326,2017-03-06 15:22:00,2017-03-06 15:37:00,885.58,5th & K St NW,1st & D St SE,Subscriber
